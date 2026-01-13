@@ -47,3 +47,26 @@ Product Diagnostics: Advanced scatter plot quadrant analysis used to identify "U
 🏷️ Dynamic UI: Developed DAX-driven titles that update based on user filters.
 
 [🔗 **View Full Project & Documentation**](/AdventureWorks%20Sales%20Dashboard/README.md)
+
+### 3\. Telecom Analysis: Customer Retention & Revenue Protection
+Strategic Focus: Transforming usage patterns and service interactions into a "Proactive Retention" tool to mitigate customer attrition and protect at-risk revenue.
+
+Executive Insights
+High-Level Monitoring: Tracking the health of a 2.67K customer base with a specialized focus on the 14.55% churn rate.
+
+Revenue at Risk: Quantified the financial impact of churn by aggregating disparate usage charges into a $25K Total Revenue Lost metric.
+
+Geographic Hot-Spotting: Identified the "Top 5" underperforming states by churn rate to allow for regional-specific retention strategies.
+
+### Key Power BI Skills Utilized
+💰 Financial Impact Logic: Developed complex SUMX DAX measures to calculate revenue loss across day, evening, and night billing cycles.
+
+📞 Behavioral Segmentation: Utilized bucketization to identify a "Service Cliff," proving that churn risk hits ~60% after the 3rd support call.
+
+🔄 Interactive Flow & State Management: Implemented Bookmark-driven Reset buttons and a centralized control center for Area Code and State slicers.
+
+🏷️ Dynamic UI & Tooltips: Developed a Report Page Tooltip for the map visual, providing a "Deep Dive" into regional churn drivers without cluttering the main view.
+
+📈 Life-Cycle Analysis: Used Line Charts to pinpoint a critical churn spike during the 13-24 month tenure window, identifying the "Second-Year Slump."
+
+[🔗 **View Full Project & Documentation**](/Telecom%20Churn%20Dashboard/README.md)
