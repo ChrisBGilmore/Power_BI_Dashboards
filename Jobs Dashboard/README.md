@@ -1,34 +1,48 @@
-# Data Jobs Dashboard with Power Bi
-
-![Dashboard Page 1](image-1.png)
+# Data Jobs Analysis Dashboard
+![data_jobs_page1](/Images/Dashboard.png)
 
 ## Introduction
+Navigating the data job market is often overwhelming due to fragmented information across multiple platforms. This dashboard was developed for Job Seekers, Career Transitioners, and Analysts to centralize market intelligence.
 
-This dashboard was created for **Job Seekers, Job Transitioners, and Job Swappers** to solve a common problem: information about the job market is scattered and hard to grasp. Using a *real-world dataset of 2024 data science job postings* (including titles, salaries, and locations), this project provides a single, easy-to-use interface to explore market trends and compensation. 
+Using a real-world dataset of 2024 job postings, this project provides an interactive interface to explore compensation benchmarks, geographic hubs, and the technical skills currently in highest demand.
 
-## Skills Showcased
+# 🛠️ Skills Showcased
+Data Transformation (ETL): Leveraged Power Query to clean, shape, and normalize raw job posting data for accurate analysis.
 
-- **Data Transformation (ETL) with Power Query:**
-Cleaned, shaped, and prepared raw data for analysis. 
-- **Core Charts:** Utilized **Column, Bar, Line,** and **Area Charts** to compare job counts and track trends over time. 
--**KPI Indicators and Tables:** Used **Cards** to display key metrics and **Tables** to provide sortable data.
-- **Dashboard Design:** Designed an intuitive and visually appealing layout, exploring both common/uncommon charts types to best tell the data story.
-- **Interactive Reporting:** 
-- **Slicers:** To dynamically filter the report by job title.
-- **Buttons and Bookmarks:** To create seamless navigatino experience
-- **Drill-Through:** to navigate from high-level summary to detailed view
+Advanced Data Visualization: Utilized Column, Bar, Line, and Area Charts to compare job volumes and track historical trends.
 
-## Dashboard Overview
+Business Logic & KPIs: Implemented Card visuals for high-level metrics and detailed Tables for granular data exploration.
+
+User-Centric Design: Focused on an intuitive UI, balancing visual variety with clarity to ensure the "data story" is easy to follow.
+
+Interactive Reporting:
+
+Slicers: For dynamic filtering by job title and seniority
+
+Buttons & Bookmarks: For a seamless, application-like navigation experience.
+
+Drill-Through: Enabling users to transition from a high-level market summary to specific product/role details.
+
+## 📊 Dashboard Overview
 ### Page 1: High-Level Market View
-![Dashboard Page 1](image.png)
 
-Showcases key KPIs like total job count, median salaries, and top job titles to give you a quick understandinig of what's happening in the job market at a glance. 
+![data_jobs_page1](/Images/Dashboard.png)
 
-### Page 2: Job Title Drill Through
-![Dashboard Page 2](Images/drill-through.png)
+Provides an "at-a-glance" pulse of the market. This view highlights total job counts, median salaries, and the most prevalent job titles, allowing users to quickly gauge market health.
 
-This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
+### Page 2: Job Title Deep-Dive (Drill-Through)
+![Data_jobs_page2](/Images/drill-through.png)
 
-## Conclusions
+The diagnostic layer of the report. Users can drill into a specific role to uncover:Salary Ranges and compensation distribution. Remote Work Stats (WFH vs. On-site).Top Hiring Platforms and geographic hotspots via a global map.
 
-This dashboard showcases how power BI can transform raw job posting data into a powerful tool for career analysts. It allows users to slice, filter, and drill through data to make informed decisions about their career path. 
+# 💡 Key Conclusions
+This project demonstrates how Power BI can turn chaotic job-board data into a strategic career tool. By allowing users to slice, filter, and drill through the data, the dashboard empowers job seekers to make data-driven decisions about their career paths, salary negotiations, and skill development.
+
+## 💡 Credits & Acknowledgements
+
+This project was built as part of the **"Power BI for Data Analytics"** course by **Luke Barousse**. 
+
+* **Course Link:** [Power BI for Data Analytics - Full Course for Beginners](https://www.youtube.com/watch?v=FwjaHCVNBWA)
+* **Data Source:** The dataset was provided as part of the course materials, featuring real-world 2024 job postings.
+
+While following the course framework, I implemented the ETL logic, DAX measures, and dashboard design to reinforce my end-to-end Power BI development skills.
