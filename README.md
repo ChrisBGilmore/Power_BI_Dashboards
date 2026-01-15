@@ -73,3 +73,29 @@ Geographic Hot-Spotting: Identified the "Top 5" underperforming states by churn 
 📈 Life-Cycle Analysis: Used Line Charts to pinpoint a critical churn spike during the 13-24 month tenure window, identifying the "Second-Year Slump."
 
 [🔗 **View Full Project & Documentation**](/Telecom%20Churn%20Dashboard/README.md)
+
+###  4\. Rotten Tomatoes Cinema Analytics: Critic vs. Audience Sentiment
+![media_page1](/Images/Media_page1.png)
+
+Strategic Focus: Analyzing the divergent perspectives of professional critics and general audiences to identify "Cult Classics," "Oscar Bait," and century-long quality trends in film and television.
+
+Executive Insights
+
+Dual-Lens Sentiment Tracking: Developed a unified engine to monitor 3.4K titles, allowing stakeholders to pivot the entire report between Critic and Audience perspectives.
+
+The "Polarization" Index: Quantified "Critical Discord" by building an absolute error measure to identify titles where public and professional opinions differ by over 50%.
+
+Historical Quality Narratives: Transitioned from noisy yearly data to Decadal Smoothing to visualize the evolution of genres from the Silent Era (1920s) to the Modern Streaming Era.
+
+### Key Power BI Skills Utilized
+🎭 Metric Switching (Field Parameters): Engineered dynamic DAX logic that swaps all visuals and calculations on the fly based on the user's selection of "Critic" or "Audience" scores.
+
+⚖️ Sentiment Gap Analysis: Authored custom DAX to filter for "Ghost Gaps"—ensuring movies missing one side of the data don't skew the "Most Controversial" rankings.
+
+🖥️ Advanced UX/UI "App" Design: Developed a high-contrast dark theme using rounded containers and neon-blue borders to simulate a modern streaming interface.
+
+🎛️ Dynamic Threshold Navigation: Built a Numeric Range Parameter dropdown that acts as an "Elite Filter," allowing users to instantly isolate movies with 90%+ ratings across any genre.
+
+🔍 Advanced Drill-Through: Built a genre deep-dive layer to find top reviewed movie/shows for any genre as well as exploring historical trends. 
+
+[🔗 **View Full Project & Documentation**](/Rotten%20Tomatoes%20Dashboard/README.md)
