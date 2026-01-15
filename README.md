@@ -25,6 +25,15 @@ Candidate Optimization: Correlation analysis between technical skills (SQL, Pyth
 
 🔍 Advanced Drill-Through: Built deep-dive layers to explore specific roles and locations.
 
+### 💡 Credits & Acknowledgements
+
+This project was built as part of the **"Power BI for Data Analytics"** course by **Luke Barousse**. 
+
+* **Course Link:** [Power BI for Data Analytics - Full Course for Beginners](https://www.youtube.com/watch?v=FwjaHCVNBWA)
+* **Data Source:** The dataset was provided as part of the course materials, featuring real-world 2024 job postings.
+
+While following the course framework, I implemented the ETL logic, DAX measures, and dashboard design to reinforce my end-to-end Power BI development skills.
+
 [🔗 **View Full Project & Documentation**](/Jobs%20Dashboard/README.md)
 
 ### 2\. AdventureWorks: Sales & Profitability Suite
