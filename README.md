@@ -34,7 +34,7 @@ This project was built as part of the **"Power BI for Data Analytics"** course b
 
 While following the course framework, I implemented the ETL logic, DAX measures, and dashboard design to reinforce my end-to-end Power BI development skills.
 
-[🔗 **View Full Project & Documentation**](/Jobs%20Dashboard/README.md)
+[🔗 **View Full Project 1 & Documentation**](/Jobs%20Dashboard/README.md)
 
 ### 2\. AdventureWorks: Sales & Profitability Suite
 ![sales_datapage1](/Images/SalesDashboard.png)
@@ -55,7 +55,7 @@ Product Diagnostics: Advanced scatter plot quadrant analysis used to identify "U
 
 🏷️ Dynamic UI: Developed DAX-driven titles that update based on user filters.
 
-[🔗 **View Full Project & Documentation**](/AdventureWorks%20Sales%20Dashboard/README.md)
+[🔗 **View Full Project 2 & Documentation**](/AdventureWorks%20Sales%20Dashboard/README.md)
 
 ### 3\. Telecom Analysis: Customer Retention & Revenue Protection
 
@@ -81,7 +81,7 @@ Geographic Hot-Spotting: Identified the "Top 5" underperforming states by churn 
 
 📈 Life-Cycle Analysis: Used Line Charts to pinpoint a critical churn spike during the 13-24 month tenure window, identifying the "Second-Year Slump."
 
-[🔗 **View Full Project & Documentation**](/Telecom%20Churn%20Dashboard/README.md)
+[🔗 **View Full Project 3 & Documentation**](/Telecom%20Churn%20Dashboard/README.md)
 
 ###  4\. Rotten Tomatoes Cinema Analytics: Critic vs. Audience Sentiment
 ![media_page1](/Images/Media_page1.png)
@@ -107,4 +107,4 @@ Historical Quality Narratives: Transitioned from noisy yearly data to Decadal Sm
 
 🔍 Advanced Drill-Through: Built a genre deep-dive layer to find top reviewed movie/shows for any genre as well as exploring historical trends. 
 
-[🔗 **View Full Project & Documentation**](/Rotten%20Tomatoes%20Dashboard/README.md)
+[🔗 **View Full Project 4 & Documentation**](/Rotten%20Tomatoes%20Dashboard/README.md)
