@@ -108,3 +108,29 @@ Historical Quality Narratives: Transitioned from noisy yearly data to Decadal Sm
 🔍 Advanced Drill-Through: Built a genre deep-dive layer to find top reviewed movie/shows for any genre as well as exploring historical trends. 
 
 [🔗 **View Full Project 4 & Documentation**](/Rotten%20Tomatoes%20Dashboard/README.md)
+
+### 5\. Sales Scenario & Forecasting Engine
+
+![forecasting_page1](/Images/Predictions_1.png)
+
+Strategic Focus: Transforming historical sales data into a forward-looking decision tool that identifies revenue gaps and utilizes "What-If" parameters to simulate growth impact across regions and product categories.
+
+Executive Insights
+Dynamic Growth Simulation: Engineered a real-time adjustment engine that allows stakeholders to simulate various growth percentages, instantly quantifying the dollar-value impact on year-end targets.
+
+The "Gap to Goal" Logic: Developed a binary status tracker that compares adjusted forecasts against a $2.83M revenue floor to provide immediate "Goal Achieved" or "At Risk" feedback.
+
+Structural Performance Drivers: Utilized hierarchical decomposition to identify that the Technology category in the West region serves as the primary engine for forecasted success.
+
+### Key Power BI Skills Utilized
+🕹️ Interactive Scenario Modeling (What-If): Implemented Numeric Parameters linked to custom DAX measures, allowing the entire dashboard to react dynamically to user-defined growth inputs.
+
+📈 Time-Series Forecasting: Leveraged built-in AI forecasting models to project 2019 sales trajectories based on historical seasonality and cyclical trends.
+
+🎨 High-Fidelity UI/UX Design: Built a sophisticated dark-mode "App-style" interface using rounded containers, high-contrast gold/cyan accents, and a Z-pattern layout for optimal readability.
+
+🏷️ Conditional Logic & Dynamic Titles: Authored DAX-driven titles and KPI cards that update their text and colors based on the data, ensuring the "Analysis" context is never lost during filtering.
+
+🌳 Advanced Drill-Down (Decomposition Tree): Configured AI-powered root-cause visuals to break down complex sales predictions into digestible regional and categorical insights.
+
+[🔗 **View Full Project 5 & Documentation**](/Sales%20Prediction/README.md)
