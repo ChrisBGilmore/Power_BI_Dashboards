@@ -35,7 +35,7 @@ Margin Warning: Identified that the "Bikes" category, despite dominating revenue
 ## 🏁 Conclusion
 The AdventureWorks Dashboard bridges the gap between executive monitoring and tactical management. By transforming raw sales data into a decision-support tool, it empowers teams to identify "Question Mark" products—those with high volume but low profit—and optimize the overall product portfolio to protect the bottom line.
 
-[🔗 **Click Here to View DAX**](/AdventureWorks%20Sales%20Dashboard/README.md)
+[🔗 **Click Here to View DAX**](/AdventureWorks%20Sales%20Dashboard/DAX/README.md)
 
 [🔗 **Click Here to View SQL**](/AdventureWorks%20Sales%20Dashboard/SQL/)
 
